@@ -16,7 +16,7 @@ Este jogo é compatível somente com sistema operacional Android 5+, até o mome
 
 <h2><i>Em atualização...</i></h2>
 
-<h1>ATUALIZAÇÕES</h1>
+<h1>UPDATES</h1>
 
 Esta <strong>NÃO</strong> é a versão final do projeto. Haverá atualizações futuras, incluindo:
 
