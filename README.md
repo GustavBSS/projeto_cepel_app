@@ -3,18 +3,18 @@
 <p><img alt="Static Badge" src="https://img.shields.io/badge/STATUS-Em%20desenvolvimento-green">
 <img alt="Static Badge" src="https://img.shields.io/badge/OS-Android%205%2B-blue"></p>
 
-<h1>#DESCRIÇÃO</h1>
+<h1>DESCRIÇÃO</h1>
 
 Este repositório contém uma demonstração de um jogo criado com o MIT App Inventor. O jogo é um simples jogo de tabuleiro de perguntas e respostas, que pode ser jogado solo ou em dupla.
 
-<h1>#REQUISITOS</h1>
+<h1>REQUISITOS</h1>
 Este jogo é compatível somente com sistema operacional Android 5+, até o momento.
 
 <b>Para executar o jogo, você precisará habilitar a permissão "Instalar apps de fontes desconhecidas" do seu dispositivo.</b>
 
 <h1>REGRAS</h1>
 
-<h2><i>Em atualização</i></h2>
+<h2><i>Em atualização...</i></h2>
 
 <h1>ATUALIZAÇÕES</h1>
 
